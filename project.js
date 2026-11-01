@@ -4,7 +4,7 @@ const project = {
     theme: "light",
     language: "uk",
     itemsPerPage: 10,
-    welcomeMessage: "Open dashboard",
+    welcomeMessage: "Open dashboarв",
     dateFormat: "DD.MM.YYYY",
     sortOrder: "ascending",
     accessLevel: "student",
